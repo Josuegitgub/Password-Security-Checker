@@ -1,7 +1,7 @@
 # Verificador de Seguridad de Contraseñas
 
 ## Descripción
-Este proyecto es un script en Python que simula un verificador de seguridad de contraseñas. Permite al usuario ingresar una contraseña y elegir entre dos métodos para "crackearla" de manera simulada: uno aleatorio (brute-force puro) y otro inteligente (construyendo carácter por carácter). Además, proporciona un análisis detallado de la fuerza de la contraseña, incluyendo entropía, combinaciones posibles y tiempos estimados para crackearla.
+Este proyecto es un script en Python que simula un verificador de seguridad de contraseñas. Permite al usuario ingresar una contraseña y elegir entre dos métodos para "crackearla" de forma simulada: uno aleatorio (brute-force puro) y otro inteligente (construyendo carácter por carácter). Además, proporciona un análisis detallado de la fuerza de la contraseña, incluyendo entropía, combinaciones posibles y tiempos estimados para crackearla.
 
 **Nota importante**: Este es un proyecto educativo para demostrar conceptos de seguridad de contraseñas. No se debe usar para intentar crackear contraseñas reales, ya que viola leyes de privacidad y ética. En la realidad, las contraseñas se almacenan hasheadas, lo que hace el cracking prácticamente imposible.
 
@@ -21,7 +21,7 @@ Este proyecto es un script en Python que simula un verificador de seguridad de c
 
 ## Instalación
 1. Clona este repositorio:
-2. ```$ Git clone https://github.com/Josuegitgub/Password-Security-Checker.git```
+2. ```$ Git clone https://github.com/JosueXT/Password-Security-Checker.git```
 3. Navega al directorio del proyecto:
 4. ```$ CD Password-Security-Checker```
 5. Ejecuta el script directamente (no requiere instalación adicional):
@@ -50,7 +50,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 Este proyecto ha sido desarrollado únicamente con fines éticos y educativos, para demostrar conceptos de seguridad informática y criptografía. El autor no se hace responsable de cualquier uso indebido, ilegal o no ético de esta herramienta. No se debe utilizar para intentar crackear, acceder o comprometer contraseñas reales de terceros, ya que esto viola leyes de privacidad, protección de datos y ética digital. El usuario asume toda la responsabilidad por el uso que le dé a este código. Recuerda: en la práctica, las contraseñas se protegen con hashing y salting, haciendo el cracking real inviable.
 
 ## Créditos
-- Desarrollado por @Josuegitgub como proyecto educativo.
+- Desarrollado por @JosueXT como proyecto educativo.
 - Inspirado en conceptos de criptografía y seguridad informática.
 - Agradecimientos a la comunidad de Python por los módulos estándar.
 
